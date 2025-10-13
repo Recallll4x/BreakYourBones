@@ -1,1 +1,1 @@
-return "Beta-0.4.1"
+return {"Beta-0.4.1", false}
