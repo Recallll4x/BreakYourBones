@@ -1,11 +1,11 @@
 Beta-0.4
 ● Unknown changes
 
-Beta-0.4.1
+Beta-0.4.1 - UI Expansion
 ● Added Quest Tab
 ● Added Ragdoll Tab
 
-Beta-0.4.2
+Beta-0.4.2 - Automation Improvements
 ● Fixed Auto farm #1 (when bones don't break)
 ● Fixed Auto complete quests (script getting stuck on fall studs quest)
 ● Added Settings tab
@@ -15,7 +15,7 @@ Beta-0.4.2
 ● Added Configuration for Spin ragdoll
 ● Style for Script version notification changed
 
-[T] Beta-0.4.3
+[T] Beta-0.4.3 - Bug Fixes & Features
 ● Optimized auto upgrade lagging bone
 ● Fixed bug in Auto farm #1 and Auto complete quest that ignored upgrades
 ● Added Material tab
