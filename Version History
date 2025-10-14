@@ -14,3 +14,6 @@ Beta-0.4.2
 ● Added Spin ragdoll in Ragdoll tab
 ● Added Configuration for Spin ragdoll
 ● Style for Script version notification changed
+
+Beta-0.4.3
+● Optimized auto upgrade lagging bone
