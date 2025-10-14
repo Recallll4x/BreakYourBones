@@ -20,3 +20,4 @@ Beta-0.4.2
 ● Fixed bug in Auto farm #1 and Auto complete quest that ignored upgrades
 ● Added Material tab
 ● Added Reset if ragdoll not loaded in Ragdoll tab
+● Fixed Auto upgrade rib cage not buying upgrades
