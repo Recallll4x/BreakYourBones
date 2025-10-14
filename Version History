@@ -6,5 +6,11 @@ Beta-0.4.1
 ● Added Ragdoll Tab
 
 Beta-0.4.2
-● Fixed Auto farm N1 (when bones don't break)
+● Fixed Auto farm #1 (when bones don't break)
 ● Fixed Auto complete quests (script getting stuck on fall studs quest)
+● Added Settings tab
+● Added Tween speed change for Auto farm #1 and Auto complete quests (Breaking part) in settings tab
+● Added Y-alignment change for Auto farm #1 and Auto complete quests (Breaking part) in settings tab
+● Added Spin ragdoll in Ragdoll tab
+● Added Configuration for Spin ragdoll
+● Style for Script version notification changed
