@@ -22,3 +22,4 @@ Beta-0.4.2 - Automation Improvements
 ● Added Reset if ragdoll not loaded in Ragdoll tab
 ● Fixed Auto upgrade rib cage not buying upgrades
 ● Remade every upgrade function and Auto roll Material
+● Some code is slightly optimized
