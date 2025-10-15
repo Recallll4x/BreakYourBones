@@ -15,7 +15,7 @@ Beta-0.4.2 - Automation Improvements
 ● Added Configuration for Spin ragdoll
 ● Style for Script version notification changed
 
-[T] Beta-0.4.3 - Bug Fixes & Features
+[T] Beta-0.4.3 - Bug Fixes & Features & Rewrites
 ● Optimized auto upgrade lagging bone
 ● Fixed bug in Auto farm #1 and Auto complete quest that ignored upgrades
 ● Added Material tab
